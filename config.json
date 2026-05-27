@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachedarse",
+        "uuid": 13705688,
+        "checksum": "mvegxk"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
